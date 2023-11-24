@@ -1,0 +1,7 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+### Above combination will ignore all files without extension, e.g. C++ binary file ###
