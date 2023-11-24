@@ -2,6 +2,8 @@
 
 [C++ Tutorial from freeCodeCamp](https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/)
 
+[C++ Dev Container](https://github.com/devcontainers/templates/tree/main/src/cpp)
+
 ## Dependencies
 
 - Docker
