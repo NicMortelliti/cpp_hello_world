@@ -16,10 +16,14 @@
     "vscode": {
       "extensions": [
         "ms-vscode.cpptools-extension-pack",
-        "ms-azuretools.vscode-docker"
+        "ms-azuretools.vscode-docker",
+        "jackpaget.gruvbox-glass"
       ]
+    },
+    "settings": {
+      "workbench.colorTheme": "Gruvbox Glass"
     }
-  },
+  }
   // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
   // "remoteUser": "root"
 }
