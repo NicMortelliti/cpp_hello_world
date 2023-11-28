@@ -4,11 +4,11 @@ int main() // Every C++ program must have a main() function
 {
   int numbers[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
-  for (int i = 0; i < 10; i++)
+  for (auto number : numbers)
   {
-    if (numbers[i] == 5)
+    if (number == 5)
     {
-      std::cout << numbers[i] << std::endl;
+      std::cout << number << std::endl;
       break;
     }
   }
